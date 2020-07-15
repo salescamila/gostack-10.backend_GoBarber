@@ -8,7 +8,7 @@ import {
 
 // KISS - Keep It Simple & Stupid
 
-@Entity('user')
+@Entity('users')
 class User {
   @PrimaryGeneratedColumn('uuid')
   id: string;
