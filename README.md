@@ -5,10 +5,10 @@ Iniciando back-end do app GoBarber
 ## Executando...
 
 - A Aplicação
-    * <b>`yarn`
-    * `yarn dev:server` </b>
+  * <b>`yarn`
+  * `yarn dev:server` </b>
 - As migrations
-  - * <b>`yarn typeorm migration:run`</b>
+  * <b> `yarn typeorm migration:run`</b>
   
 <br/>
 
