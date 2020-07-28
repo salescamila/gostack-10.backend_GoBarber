@@ -3,12 +3,12 @@ Iniciando back-end do app GoBarber
 
 
 ## Executando...
-
+- As migrations
+  * <b>`yarn`
+  * `yarn typeorm migration:run`</b>
 - A Aplicação
   * <b>`yarn`
   * `yarn dev:server` </b>
-- As migrations
-  * <b> `yarn typeorm migration:run`</b>
   
 <br/>
 
